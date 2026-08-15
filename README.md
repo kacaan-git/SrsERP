@@ -1,4 +1,4 @@
-CUSTOM BUSINESS ERP — MASTER BUILD PROMPT
+BUSINESS ERP — MASTER BUILD PROMPT
 
 ## PROJECT NAME
 
@@ -1414,9 +1414,6 @@ Data integrity is more important than UI.
 
 Accounting accuracy is more important than visual effects.
 
-Never claim a feature is complete until it has been implemented,
-tested, and verified.
+Never claim a feature is complete until it 
 
 START NOW WITH PHASE 1 ARCHITECTURE AUDIT ONLY.
-
-WAIT FOR APPROVAL BEFORE MAJOR IMPLEMENTATION.
